@@ -1,0 +1,3 @@
+type nul > ajustes-release-v1-2-0git.txt
+Luis Gabriel Solís Cisneros
+4° C - IDS
